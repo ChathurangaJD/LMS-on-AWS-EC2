@@ -15,6 +15,16 @@ This project demonstrates the deployment and configuration of **Moodle Learning 
 
 ---
 
+* Start Apache server & mysql
+  <img width="1919" height="916" alt="Screenshot 2025-10-07 125530" src="https://github.com/user-attachments/assets/eb2de3f2-c569-480b-add3-d4c8596edd12" />
+  
+* Moodle File Directory
+  <img width="1919" height="554" alt="Screenshot 2025-10-07 125605" src="https://github.com/user-attachments/assets/57d5f6d8-ed32-4113-bfc1-ea9e24a90951" />
+
+* Config.php
+<img width="1919" height="1006" alt="Screenshot 2025-10-07 125648" src="https://github.com/user-attachments/assets/f5dc0a47-7191-4f8b-925b-bcd5717f608f" />
+
+ 
 ## ⚙️ Project Overview
 
 The project includes:
