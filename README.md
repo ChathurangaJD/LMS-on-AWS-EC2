@@ -1,5 +1,7 @@
 # Moodle LMS Deployment on AWS EC2
 
+<img width="1892" height="872" alt="Screenshot 2025-10-07 150036" src="https://github.com/user-attachments/assets/08135ff2-3295-47c5-b4e1-13144e1f17ff" />
+
 This project demonstrates the deployment and configuration of **Moodle Learning Management System (LMS)** on an **Ubuntu Server** hosted on **AWS EC2**. The project focuses on building a secure, scalable, and production-ready LMS environment suitable for hosting and managing online courses.
 
 ---
